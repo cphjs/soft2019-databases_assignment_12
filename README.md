@@ -1,7 +1,12 @@
 
-#Links
+# Links
 
 [Assignment 12](https://github.com/datsoftlyngby/soft2019spring-databases/blob/master/assignments/assignment12.md)
+
+
+# Exercise 1
+
+Importing data, assuming you have the file in the `/var/lib/neo4j/import` folder.
 
 ```
 LOAD CSV FROM "file:///some2016UKgeotweets.csv" AS row 
